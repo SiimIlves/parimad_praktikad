@@ -26,7 +26,7 @@ Ja niimoodi programm töötabki!  :+1:
 
 ___
 
-Kes projektiga tegelesid?👋
+# Kes projektiga tegelesid?👋
 
 Meelis Int | [GitHub](https://github.com/meelisInt) </br>
 Susanna Kuusemaa | [GitHub](https://github.com/susannakuu) </br>
