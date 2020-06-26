@@ -6,7 +6,7 @@
 Et programmi üldse kuidagi avada saaks, on esiteks vaja [Python'it](https://www.python.org/downloads/) **(Selle spetsiifilise programmi jaoks kasutati versiooni 3.83)**
 
 - Esiteks oleks vaja faili nimega "[albumid.txt](https://raw.githubusercontent.com/AnnaKarutina/ppvh_ita19/master/vin%C3%BC%C3%BClide%20projekt/albumid.txt)" ***Faili nimi peab olema albumid.txt!***
-  - Fail tuleb paigutada samasse kausta, kus on Python fail
+  - **Fail tuleb paigutada samasse kausta, kus on Python fail**
 - Teiseks tuleks aktiveerida kood
 ![PILT1](https://user-images.githubusercontent.com/65825538/85884326-24c04780-b7eb-11ea-8b32-9c3ac0671176.PNG)
 - Järgmisena tuleb lahti väli, kus programm küsib kasutaja käest mida ta teha sooviks
