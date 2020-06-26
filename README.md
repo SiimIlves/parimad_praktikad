@@ -8,3 +8,8 @@ Et programmi üldse kuidagi avada saaks, on esiteks vaja [Python'it](https://www
 - Esiteks oleks vaja faili nimega "[albumid.txt](https://raw.githubusercontent.com/AnnaKarutina/ppvh_ita19/master/vin%C3%BC%C3%BClide%20projekt/albumid.txt)" ***Faili nimi peab olema albumid.txt!***
   - Fail tuleb paigutada samasse kausta, kus on Python fail
 - Teiseks tuleks aktiveerida kood
+![PILT1](https://user-images.githubusercontent.com/65825538/85884326-24c04780-b7eb-11ea-8b32-9c3ac0671176.PNG)
+- Järgmisena tuleb lahti väli, kus programm küsib kasutaja käest mida ta teha sooviks
+  - Hetkel ei saa kasutaja midagi peale 1-4 numbri kirjutamise teha
+- Kui kasutaja valis 3 või 4, tuleb kasutajal spetsiifiliselt nimi kirjutada
+  - 3 valimisel albumi nimi ja 4 valimisel loo nimi (**Kui kasutaja teeb kirjavea** (***nt kirjutab väikeste tähtedega***) **siis programm ei väljasta midagi**)
