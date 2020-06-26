@@ -24,8 +24,10 @@ Et programmi üldse kuidagi avada saaks, on esiteks vaja [Python'it](https://www
 
 Ja niimoodi programm töötabki!  :+1:
 
+___
+
 Kes projektiga tegelesid?👋
 
-Meelis Int | [GitHub](https://github.com/meelisInt)
-Susanna Kuusemaa | [GitHub](https://github.com/susannakuu)
+Meelis Int | [GitHub](https://github.com/meelisInt) </br>
+Susanna Kuusemaa | [GitHub](https://github.com/susannakuu) </br>
 Siim Ilves | [GitHub]((https://github.com/SiimIlves)
