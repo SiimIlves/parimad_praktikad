@@ -23,3 +23,9 @@ Et programmi üldse kuidagi avada saaks, on esiteks vaja [Python'it](https://www
  ![PILT3](https://user-images.githubusercontent.com/65825538/85886002-f09a5600-b7ed-11ea-9a76-3ffb239c518a.PNG) ![PILT4](https://user-images.githubusercontent.com/65825538/85886359-9bab0f80-b7ee-11ea-8d48-b0d7eb8ebd13.PNG) </br>
 
 Ja niimoodi programm töötabki!  :+1:
+
+Kes projektiga tegelesid?👋
+
+Meelis Int | [GitHub](https://github.com/meelisInt)
+Susanna Kuusemaa | [GitHub](https://github.com/susannakuu)
+Siim Ilves | [GitHub]((https://github.com/SiimIlves)
