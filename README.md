@@ -7,7 +7,7 @@
 - Väljastada *kõik* mis failis on ning eraldada albumid sidekriipsudega
 - Kasutajale edastada kõik albumite nimed koos nende autoritega
 - Lasta kasutajal ise soovitud album kirjutada ja kõik selle albumi lood talle kirja panna
-- Lubab kasutajal ühe loo nime sisestada ja seejärel selle loo detailid ette tuua
+- Lubab kasutajal ühe loo nime sisestada ja seejärel selle loo detailid esile tuua
 
 # Kuidas programmi täpsemalt kasutada? :thinking:
 Et programmi üldse kuidagi avada saaks, on esiteks vaja [Python'it](https://www.python.org/downloads/) või [Thonny't](https://thonny.org/) **(Selle spetsiifilise programmi jaoks kasutati versiooni 3.83)**
