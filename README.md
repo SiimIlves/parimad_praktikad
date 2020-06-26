@@ -30,4 +30,4 @@ Kes projektiga tegelesid?👋
 
 Meelis Int | [GitHub](https://github.com/meelisInt) </br>
 Susanna Kuusemaa | [GitHub](https://github.com/susannakuu) </br>
-Siim Ilves | [GitHub]((https://github.com/SiimIlves)
+Siim Ilves | [GitHub](https://github.com/SiimIlves)
