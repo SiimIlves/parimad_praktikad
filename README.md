@@ -6,7 +6,7 @@
 
 - Väljastada *kõik* mis failis on ning eraldada albumid sidekriipsudega
 - Kasutajale edastada kõik albumite nimed koos nende autoritega
-- Lasta kasutajal ise soovitud album leida ja kõik selle albumi lood talle kirja panna
+- Lasta kasutajal ise soovitud album kirjutada ja kõik selle albumi lood talle kirja panna
 - Lubab kasutajal ühe loo nime sisestada ja seejärel selle loo detailid ette tuua
 
 # Kuidas programmi täpsemalt kasutada? :thinking:
