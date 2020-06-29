@@ -20,7 +20,7 @@ Et programmi üldse kuidagi avada saaks, on esiteks vaja [Python'it](https://www
   - Kasutaja saab 1 või 2 valides kohe tulemuse kätte, ![PILT5](https://user-images.githubusercontent.com/65825538/85954290-025f3300-b97f-11ea-9b21-2a38227e1500.PNG)
   ## *kuid...*
 - Kui kasutaja sisestas 3 või 4, tuleb kasutajal spetsiifiliselt mingi nimi kirjutada
-  - 3 valimisel albumi nimi ja 4 valimisel loo nimi (**Kui kasutaja teeb kirjavea** (***nt unustab lisada tühiku või ülakoma***) **siis programm ei väljasta midagi**) </br>
+  - 3 valimisel albumi nimi ja 4 valimisel loo nimi (**Kui kasutaja teeb kirjavea** (***nt unustab lisada***) **siis programm ei väljasta midagi**) </br>
  ![PILT3](https://user-images.githubusercontent.com/65825538/85886002-f09a5600-b7ed-11ea-9a76-3ffb239c518a.PNG) ![PILT4](https://user-images.githubusercontent.com/65825538/85886359-9bab0f80-b7ee-11ea-8d48-b0d7eb8ebd13.PNG) </br>
 
 Ja niimoodi programm töötabki!  :+1:
