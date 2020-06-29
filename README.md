@@ -17,7 +17,8 @@ Et programmi üldse kuidagi avada saaks, on esiteks vaja [Python'it](https://www
 - Teiseks tuleks aktiveerida kood </br>
 ![PILT1](https://user-images.githubusercontent.com/65825538/85884326-24c04780-b7eb-11ea-8b32-9c3ac0671176.PNG)
 - Järgmisena tuleb lahti väli, kus programm küsib kasutaja käest mida ta teha sooviks
-  - Kasutaja saab 1 või 2 valides kohe tulemuse kätte, ![PILT5](https://user-images.githubusercontent.com/65825538/85954290-025f3300-b97f-11ea-9b21-2a38227e1500.PNG)
+  - Kasutaja saab 1 või 2 valides kohe tulemuse kätte, </br>
+  ![PILT5](https://user-images.githubusercontent.com/65825538/85954290-025f3300-b97f-11ea-9b21-2a38227e1500.PNG)
   ## *kuid...*
 - Kui kasutaja sisestas 3 või 4, tuleb kasutajal spetsiifiliselt mingi nimi kirjutada
   - 3 valimisel albumi nimi ja 4 valimisel loo nimi (**Kui kasutaja teeb kirjavea** (***nt unustab lisada tühiku või ülakoma***) **siis programm ei väljasta midagi**) </br>
